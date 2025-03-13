@@ -2,23 +2,19 @@ name: android_game_booster
 description: A game booster app for Android with advanced performance features.
 version: 1.0.0+1
 
-
 environment:
-  sdk: ">=2.12.0 <3.0.0"
-
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
-  flutter:
-    sdk: flutter
-  cupertino_icons: ^1.0.2
-  provider: ^6.0.5
-  shared_preferences: ^2.0.6
-
+  flutter:
+    sdk: flutter  # ✅ Make sure this appears only ONCE
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.5
+  shared_preferences: ^2.0.6
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
-
+  flutter_test:
+    sdk: flutter
 
 flutter:
-  uses-material-design: true
+  uses-material-design: true
