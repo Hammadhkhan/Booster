@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">GRS</string>
+
+    <string name="high_res_limit">100%</string>
+    <string name="low_res_limit">50%</string>
+
+    <string name="FPS">FPS</string>
+
+    <string name="dummy_title">GameAppName (hezih)</string>
+    <string name="dummy_package_name">PackageName (com.hezih.IwantToDie)</string>
+    <string name="cant_find_game">Can\'t find your game ?</string>
+
+    <string name="resolution">Native:</string>
+    <string name="resolution_tweaked">Tweaked:</string>
+    <string name="progressive">p</string>
+
+    <string name="recent_games">Recently added games:</string>
+    <string name="empty_recent_game"> </string>
+
+    <string name="option_title">Settings</string>
+    <string name="option_aggressive_LMK">Aggressive Low Memory Killer</string>
+    <string name="option_kill_apps">Kill all apps (NOT RECOMMENDED)</string>
+    <string name="option_keep_DPI">Keep stock DPI</string>
+
+    <string name="reset_popup_title">Custom resolution found !</string>
+    <string name="reset_popup_text">Do you want to revert back to the original resolution</string>
+    <string name="reset_popup_positive_choice">Revert resolution</string>
+    <string name="reset_popup_negative_choice">No, I like it</string>
+
+    <string name="no_root_popup_title">No root solution detected !</string>
+    <string name="no_root_popup_text">It seems like there is no root access.\nDo you want to use non-root mode ?</string>
+    <string name="no_root_popup_positive_choice">I\'ll try non-root mode</string>
+    <string name="no_root_popup_negative_choice">Quit the app</string>
+
+    <string name="disclaimer_popup_title">Disclaimer</string>
+    <string name="disclaimer_popup_text">The software is provided "AS IS", without any warranty of any kind, express or implied.</string>
+    <string name="disclaimer_popup_positive_choice">I know what I\'m doing</string>
+    <string name="disclaimer_popup_negative_choice">Quit the app</string>
+
+    <string name="remove_popup_title">Remove</string>
+    <string name="remove_popup_text">Removes the app from the list</string>
+
+    <string name="no_permission_popup_title">No permission</string>
+    <string name="no_permission_popup_text">The non-root mode requires the WRITE_SECURE_SETTINGS permission, which can be given through an ADB command.\nClick the learn more button to explain how to.</string>
+    <string name="no_permission_popup_positive_choice">Learn more</string>
+    <string name="no_permission_popup_negative_choice">Quit the app</string>
+
+    <string name="no_permission_toast">Can\'t use this option in non-root mode !</string>
+
+    <string name="link_to_setup">https://github.com/serpentspirale/Android-Game-Booster#Setup</string>
+    
+</resources>
